@@ -1,31 +1,27 @@
-# MySQL Environment Setup
+# MySQL, SQL, and Data Modeling
 
-## Overview
-This project documents the setup of a local MySQL development environment using MySQL Server and MySQL Workbench. The goal was to install the required tools, connect to the local server, create a practice database, and confirm that the database was available in MySQL Workbench.
+This repository contains hands-on projects in MySQL, SQL query development, database setup, schema creation, ERD design, and relational data modeling. The work included here demonstrates practical experience with MySQL Workbench, SQL scripts, database structure analysis, functional dependency interpretation, and business-oriented database design.
 
-## Tools Used
-- MySQL Server
-- MySQL Workbench
-- SQL
-
-## What I Did
-- Installed MySQL Server
-- Installed MySQL Workbench
-- Connected to the local MySQL server
-- Created an empty database named `practice`
-- Executed the `USE practice;` command to select the database
-- Verified that the schema appeared correctly in MySQL Workbench
+## Projects Included
+- MySQL Environment Setup
+- Job Interview Database Schema
+- Frequent Flyer SQL Query Analysis
+- Sales Database ERD Design
+- ERD Functional Dependency Analysis
 
 ## Skills Demonstrated
-- Database environment setup
-- MySQL installation and configuration
-- Schema creation
-- Basic SQL command execution
-- MySQL Workbench navigation
+- MySQL installation and setup
+- MySQL Workbench
+- SQL script execution
+- Database creation and schema management
+- SQL queries with joins and filtering
+- DISTINCT selection and date-based filtering
+- ERD design
+- Functional dependency analysis
+- Relational database thinking
 
-## Files to Include
-- Setup screenshot
-- Notes or commands used during setup
+## Repository Structure
+Each project in this repository is organized into its own folder with supporting documentation, screenshots, SQL files, and notes where applicable.
 
-## Key Takeaway
-This project built the foundation for later SQL and database work by establishing a functioning local MySQL environment and confirming that databases could be created and managed successfully.
+## Goal
+The goal of this repository is to present database and SQL work in a clear, organized, and professional format that reflects both technical ability and business-focused problem solving.

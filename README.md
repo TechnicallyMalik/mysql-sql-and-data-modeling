@@ -1,27 +1,26 @@
 # MySQL, SQL, and Data Modeling
 
-This repository contains hands-on projects in MySQL, SQL query development, database setup, schema creation, ERD design, and relational data modeling. The work included here demonstrates practical experience with MySQL Workbench, SQL scripts, database structure analysis, functional dependency interpretation, and business-oriented database design.
+This repository contains hands-on SQL and database projects completed in MySQL Workbench. The work included here focuses on database creation, schema development, SQL script execution, relational table design, foreign key relationships, and SQL query analysis.
 
 ## Projects Included
-- MySQL Environment Setup
 - Job Interview Database Schema
 - Frequent Flyer SQL Query Analysis
-- Sales Database ERD Design
-- ERD Functional Dependency Analysis
+- Practice Database Table Creation
 
 ## Skills Demonstrated
-- MySQL installation and setup
 - MySQL Workbench
+- Database creation
 - SQL script execution
-- Database creation and schema management
-- SQL queries with joins and filtering
-- DISTINCT selection and date-based filtering
-- ERD design
-- Functional dependency analysis
+- Table creation
+- Primary and foreign key relationships
+- SQL joins
+- DISTINCT selection
+- Date-based filtering
+- Schema verification
 - Relational database thinking
 
 ## Repository Structure
-Each project in this repository is organized into its own folder with supporting documentation, screenshots, SQL files, and notes where applicable.
+Each project in this repository is organized into its own folder with a project README, screenshots, SQL files, and supporting materials where applicable.
 
 ## Goal
-The goal of this repository is to present database and SQL work in a clear, organized, and professional format that reflects both technical ability and business-focused problem solving.
+The goal of this repository is to present practical SQL and relational database work in a clear, organized, and professional format.

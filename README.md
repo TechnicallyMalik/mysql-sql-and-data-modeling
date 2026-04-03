@@ -1,4 +1,4 @@
-# MySQL, SQL, and Data Modelin
+# MySQL, SQL, and Data Modeling
 
 This repository contains hands-on projects in MySQL, SQL query development, database setup, schema creation, ERD design, and relational data modeling. The work included here demonstrates practical experience with MySQL Workbench, SQL scripts, database structure analysis, functional dependency interpretation, and business-oriented database design.
 
